@@ -1,7 +1,9 @@
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/kilnx-org/kilnx/main/.github/banner.svg" alt="kilnx" width="800"/>
+  <img src="https://raw.githubusercontent.com/kilnx-org/kilnx/main/.github/logo.svg" alt="kilnx" width="100"/>
   <br><br>
+  <strong>kilnx</strong>
+  <br>
 </p>
 
 <p align="center">
