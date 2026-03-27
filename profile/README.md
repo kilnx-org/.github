@@ -1,8 +1,6 @@
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/kilnx-org/kilnx/main/.github/logo.svg" alt="kilnx" width="100"/>
-  <br><br>
-  <strong>kilnx</strong>
+  <a href="https://kilnx.dev"><img src="https://raw.githubusercontent.com/kilnx-org/kilnx/main/.github/banner.svg" alt="kilnx" width="700"/></a>
   <br>
 </p>
 
