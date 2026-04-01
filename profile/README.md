@@ -6,7 +6,7 @@
 
 <p align="center">
   Declarative backend language that compiles to a single binary.<br>
-  27 keywords. Zero framework. SQL is the query language. HTML is the output.
+  28 keywords. Zero framework. SQL is the query language. HTML is the output.
 </p>
 
 <p align="center">
@@ -41,10 +41,8 @@ page /tasks requires auth
 
 <br>
 
-### Repositories
+### Examples
 
-| Repo | Description |
-|------|-------------|
-| [**kilnx**](https://github.com/kilnx-org/kilnx) | Language compiler, runtime, and CLI |
-| [**examples**](https://github.com/kilnx-org/examples) | Example applications (CRM, blog, API) |
-| [**kilnx-org.github.io**](https://github.com/kilnx-org/kilnx-org.github.io) | Website (kilnx.dev) |
+| App | Description |
+|-----|-------------|
+| [**kilnx-example-chat**](https://github.com/kilnx-org/kilnx-example-chat) | Minimalist Slack clone in ~650 lines. Channels, threads, DMs, reactions, file uploads, typing indicators, markdown, link unfurl, search, rate limiting. Single .kilnx file, single binary. |
